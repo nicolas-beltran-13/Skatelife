@@ -95,7 +95,7 @@
             logoutBtn.addEventListener('click', function(e) {
                 e.preventDefault();
                 alert('Sesión cerrada correctamente.');
-                window.location.href = 'index.html'; // Redirige a la página principal o de inicio de sesión
+                window.location.href = 'index.php'; // Redirige a la página principal o de inicio de sesión
             });
         });
     </script>

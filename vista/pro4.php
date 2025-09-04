@@ -69,21 +69,21 @@
                     </button>
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                         <div class="navbar-nav mr-auto py-0">
-                            <a href="index.html" class="nav-item nav-link">Inicio</a>
-                            <a href="shop.html" class="nav-item nav-link">Tienda</a>
-                            <a href="detail.html" class="nav-item nav-link active">Detalle de Producto</a>
+                            <a href="index.php" class="nav-item nav-link">Inicio</a>
+                            <a href="shop.php" class="nav-item nav-link">Tienda</a>
+                            <a href="detail.php" class="nav-item nav-link active">Detalle de Producto</a>
                             <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Páginas</a>
                                 <div class="dropdown-menu rounded-0 m-0">
-                                    <a href="cart.html" class="dropdown-item">Carrito de Compras</a>
-                                    <a href="checkout.html" class="dropdown-item">Pagar</a>
+                                    <a href="cart.php" class="dropdown-item">Carrito de Compras</a>
+                                    <a href="checkout.php" class="dropdown-item">Pagar</a>
                                 </div>
                             </div>
-                            <a href="contact.html" class="nav-item nav-link">Contacto</a>
+                            <a href="contact.php" class="nav-item nav-link">Contacto</a>
                         </div>
                         <div class="navbar-nav ml-auto py-0">
-                            <a href="login.html" class="nav-item nav-link">Iniciar Sesión</a>
-                            <a href="register.html" class="nav-item nav-link">Registrarse</a>
+                            <a href="login.php" class="nav-item nav-link">Iniciar Sesión</a>
+                            <a href="register.php" class="nav-item nav-link">Registrarse</a>
                         </div>
                     </div>
                 </nav>
